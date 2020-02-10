@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirestoreDatabase</string>
+
+    <array name="subjects">
+        <item>Select</item>
+        <item>Maths</item>
+        <item>Science</item>
+        <item>English</item>
+        <item>Social Science</item>
+        <item>Hindi</item>
+
+    </array>
+</resources>
